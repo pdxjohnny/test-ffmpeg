@@ -1,0 +1,3 @@
+[dffml.operation]
+convert_to_gif = ffmpeg.operations:convert_to_gif
+
